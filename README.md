@@ -14,7 +14,7 @@
     📧 radagea@gmail.com
   </li>
   <li>
-    <img src="https://dcbadge.vercel.app/api/shield/325715691418419201" />
+    <a href="https://discordapp.com/users/973906653562949632"><img src="https://dcbadge.vercel.app/api/shield/325715691418419201" /></a>
   </li>
 </ul>
 
