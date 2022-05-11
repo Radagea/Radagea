@@ -9,8 +9,16 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📧 radagea@gmail.com
-<img src="https://dcbadge.vercel.app/api/shield/325715691418419201" />
+<ul>
+  <li>
+    📧 radagea@gmail.com
+  </li>
+  <li>
+    <img src="https://dcbadge.vercel.app/api/shield/325715691418419201" />
+  </li>
+</ul>
+
+
 <p align="left">
 </p>
 
