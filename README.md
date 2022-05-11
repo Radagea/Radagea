@@ -2,12 +2,12 @@
 <h3 align="center">I'm a developer from Hungary.</h3>
 
 - I’m currently working on [ExpertOpinion frontend](https://github.com/Radagea/journalist)
+- And also [ExpertOpinion backend](https://github.com/Radagea/journalistapi)
 
-- 🌱 I’m currently learning **Vue.js/PHP**
+- 🌱 I’m currently learning **Vue.js, PHP**
 
-- I’m currently working on also [ExpertOpinion backend](https://github.com/Radagea/journalistapi)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: radagea@gmail.com</h3>
 <p align="left">
 </p>
 
