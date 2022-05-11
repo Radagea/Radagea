@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 - 📧 radagea@gmail.com
-![](https://dcbadge.vercel.app/api/shield/406125028065804289)
+<img src="https://dcbadge.vercel.app/api/shield/325715691418419201" />
 <p align="left">
 </p>
 
