@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li>📧 radagea@gmail.com</li>
-  <li>![](https://discord-md-badge.vercel.app/api/shield/325715691418419201)</li>
+  <li style=flat&theme=clean&compact=true>![](https://discord-md-badge.vercel.app/api/shield/325715691418419201)</li>
 </ul>
 <p align="left">
 </p>
