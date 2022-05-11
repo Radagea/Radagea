@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm József Juhász</h1>
-<h3 align="center">I'm a developer from Hungary.</h3>
+<h3 align="center">I'm a hobby developer from Hungary.</h3>
 
 - I’m currently working on [ExpertOpinion frontend](https://github.com/Radagea/journalist)
-- And also [ExpertOpinion backend](https://github.com/Radagea/journalistapi)
+- Also [ExpertOpinion backend](https://github.com/Radagea/journalistapi)
 
-- 🌱 I’m currently learning **Vue.js, PHP**
+- I’m currently learning **Vue.js, PHP**
 
 
-<h3 align="left">Connect with me: radagea@gmail.com</h3>
+
+<h3 align="left">Connect with me:</h3>
+<ul>
+  <li>📧 radagea@gmail.com</li>
+  <li>![](https://discord-md-badge.vercel.app/api/shield/325715691418419201)</li>
+</ul>
 <p align="left">
 </p>
 
