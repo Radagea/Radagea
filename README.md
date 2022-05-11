@@ -9,10 +9,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<ul>
-  <li>📧 radagea@gmail.com</li>
-  <li>![](https://discord-md-badge.vercel.app/api/shield/325715691418419201)</li>
-</ul>
+- 📧 radagea@gmail.com
+- ![](https://discord-md-badge.vercel.app/api/shield/325715691418419201)
 <p align="left">
 </p>
 
