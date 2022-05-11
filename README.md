@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm József Juhász</h1>
+<h1 align="center">Hi 👋, I'm József</h1>
 <!-- <h3 align="center">I'm a hobby developer from Hungary.</h3> -->
 
 - I’m currently working on [ExpertOpinion frontend](https://github.com/Radagea/journalist)
