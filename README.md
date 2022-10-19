@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm József</h1>
-<!-- <h3 align="center">I'm a hobby developer from Hungary.</h3> -->
+<!-- <h3 align="center">I'm a junior full stack developer from Hungary.</h3> -->
 
-- I’m currently working on [MoPHP](https://github.com/Radagea/mophp)
+- I’m currently working on [MajAPI](https://github.com/Radagea/maj-api)
 
 - I’m currently learning **Vue.js, PHP**
 
