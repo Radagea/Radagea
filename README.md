@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm József</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I'm a full stack developer from Hungary.</h3>
-
-- I’m currently working on [MajFrame](https://github.com/Radagea/MajFrame)
-
-- I’m currently learning **Vue.js, PHP**
 
 
 
